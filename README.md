@@ -33,6 +33,17 @@ pip install Flask
 
 ### Setup
 
-1-Clone the repository (if applicable) or copy the files to your local machine.
-2-Navigate to the project directory in your terminal.
-3-Install Flask using pip if you haven't already:
+1. Clone the repository (if applicable) or copy the files to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Install Flask using pip if you haven't already
+
+## Running the Project
+1. Open a terminal/command prompt and navigate to the project folder.
+2. Run the Flask application with the following command:
+```bash
+python app.py
+```
+3. Once the application is running, open your web browser and go to: 
+http://127.0.0.1:5000/
+4. You will see a form where you can enter your name and age.
+5. After submitting the form, you will be redirected to another page that displays the submitted name and age.
