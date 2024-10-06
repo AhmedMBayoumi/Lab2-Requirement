@@ -33,7 +33,7 @@ pip install Flask
 
 ### Setup
 
-1. Clone the repository (if applicable) or copy the files to your local machine.
+1. Clone the repository or copy the files to your computer.
 2. Navigate to the project directory in your terminal.
 3. Install Flask using pip if you haven't already
 
