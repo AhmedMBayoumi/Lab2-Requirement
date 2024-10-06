@@ -21,3 +21,11 @@ The main dependency for this project is the **Flask** web framework. You can ins
 
 ```bash
 pip install Flask
+```
+## Project Structure
+
+├── app.py              # Main Flask application
+├── templates
+│   ├── index.html      # Form page
+│   └── data.html       # Data display page
+└── README.md           # Project instructions
